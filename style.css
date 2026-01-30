@@ -31,21 +31,21 @@ body {
 }
 
 .ibm-plex-sans-blue {
+  color: rgb(95,135,255);  
   font-family: "IBM Plex Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
-  color: rgb(95,135,255);
   font-variation-settings:
     "wdth" 100;
 }
 
 .ibm-plex-sans-red {
+  color: rgb(215,95,95);  
   font-family: "IBM Plex Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
-  color: rgb(215,95,95);
   font-variation-settings:
     "wdth" 100;
 }
