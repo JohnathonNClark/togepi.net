@@ -30,7 +30,7 @@ body {
     "wdth" 100;
 }
 
-.ibm-plex-sans-blue {
+.togepi-blue {
   color: rgb(95,135,255);  
   font-family: "IBM Plex Sans", sans-serif;
   font-optical-sizing: auto;
@@ -40,7 +40,7 @@ body {
     "wdth" 100;
 }
 
-.ibm-plex-sans-red {
+.togepi-red {
   color: rgb(215,95,95);  
   font-family: "IBM Plex Sans", sans-serif;
   font-optical-sizing: auto;
