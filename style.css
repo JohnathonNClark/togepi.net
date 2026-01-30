@@ -50,5 +50,14 @@ body {
     "wdth" 100;
 }
 
+.inline-block {
+    display: inline-block;
+}
+
+a-red:link {
+  color: rgb(215,95,95);
+  background-color: transparent;
+  text-decoration: none;
+}
 
 
